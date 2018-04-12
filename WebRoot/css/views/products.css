@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('common.css');
+.jdBg{ width:1200px; margin:40px auto;}
+.title1{ width:1200px; float:left;}
+.title1 img{ display:block;}
+.title1 h1{ display:block; color:#595757; font-size:30px; margin-top:10px;height:50px; line-height:50px;text-align:center;}
+
+.jdCont{ width:1200px; float:left; margin:20px auto;}
+.jdCont ul li{ width:300px; float:left; min-height:342px; display:block;}
+.jdCont ul li .jdBox{ width:300px; float:left;}
+.jdCont ul li .jdBox a{ display:block; float:left; width:298px; border:solid 1px #fff; height:290px;}
+.jdCont ul li .jdBox a img{ width:180px; height:250px; display:block; float:left; padding:10px 59px 0px 59px;}
+.jdCont ul li .jdBox a:hover{border:solid 1px #945f42; }
+.jdCont ul li .jdBox a span{ width:298px; display:block; float:left; text-align:center;font-size:14px; color:#595757;}
+.jdCont ul li .jdBox em{width:298px; display:block; font-style:normal; text-align:center;text-transform:uppercase;float:left;font-size:12px;-webkit-transform : scale(0.84,0.84) ;
+*font-size:10px;text-transform:uppercase; color:#595757;}
+.jdCont ul li .jdBox a:hover span,.jdCont ul li .jdBox a:hover em{ color:#945f42;}
+
+.jdCont ul li .jdBox .gx{ width:270px; float:left;font-size:14px; color:#595757; line-height:16px; display:block;padding:5px 15px; text-align:center;}
+
+.proTitle{ width:1200px; float:left; border-bottom:solid 1px #945f42; padding-bottom:5px; margin:50px auto;}
+.proTitle ul li{ width:170px; display:block; float:left;}
+.proTitle ul li a{ color:#595757;}
+.proTitle ul li a:hover{ color:#945f42;}
+.proTitle ul li  a.proHover{ color:#945f42;}
+.proTitle ul li span{ display:block; float:left; width:170px; text-align:center;font-size:16px;}
+.proTitle ul li i{ display:block; float:left; width:170px; font-style:normal;text-align:center;font-size:10px; text-transform:uppercase;font-size:10px;-webkit-transform : scale(0.84,0.84) ;
+*font-size:10px;text-transform:uppercase;}

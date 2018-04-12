@@ -1,0 +1,221 @@
+@charset="utf-8";
+
+*{  font-family: 'Microsoft Yahei','\5FAE\8F6F\96C5\9ED1',Arial,sans-serif;
+        line-height: inherit;
+        font-size: inherit;
+    }
+ body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td, div, span, a, b {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+div{display: block;}
+		
+body {
+    font-size: 12px;
+    color: #666;
+    min-width: 1000px;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    list-style: none;
+}
+.bdct .hd {
+    padding: 16px 0 14px;
+}
+.bdct .hd .mct {
+    width: 1000px;
+    margin: 0 auto;
+
+}
+.bdct .hd .tn {
+    padding: 0 8px;
+}
+.fr{
+	float: right;
+}
+ol, ul, li, dl, dt, dd, input, h1, h2, h3, h4, h5, h6, .bxt {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+}
+
+.bdct .hd .tn li, .hd .tn li a {
+    color: #999;
+}
+.bdct .hd .tn li, .hd .tn li a, .hd .tn li span {
+    padding: 0 5px;
+}
+.bdct .hd .tn li {
+    float: right;
+    display: inline;
+    background-position: -199px -55px;
+    line-height: 33px;
+}
+.eol {
+    margin-right: 0!important;
+    border-right: none!important;
+}
+.bdct .hd .tn .eol {
+    background: 0;
+}
+ol, ul, li, dl, dt, dd {
+    list-style: none;
+}
+.cl:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.bdct .hd .lg {
+    padding: 0 14px;
+}
+.cl {
+    display: block;
+}
+.lg .f1{float: left;}
+.bdct .hd .lg a {
+    margin-left: 5px;
+}
+a {
+    text-decoration: none;
+    outline: 0;
+    color: #666;
+    border: 0;
+    cursor: pointer;
+}
+.bdct .hd .lg .logoname {
+    padding-left: 18px;
+    /*bottom: 30px;*/
+    font-size: 35px;
+    display: inline-block;
+    /*text-align: center;*/
+}
+
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td, div, span, a, b {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.bdct .hd .lgr ul {
+    padding-top: 17px;
+    padding-right: 7px;
+}
+.bdct .hd .lgr li, .bdct .hd .lgr li h2, .bdct .hd .lgr li span {
+    width: 150px;
+    height: 35px;
+}
+
+.bdct .hd .lgr li {
+    float: left;
+    _display: inline;
+    background-position: center -135px;
+}
+.chk .si, .chk .smi, .chk .bt, .arpb .bt, .dtl .smi, .hd .lgr li, .mtpfw .tmtpw .mtpnw .btn, .tckw .btn, .cdtw .btn, .sbt {
+    background: url(/img/5.0/cart/bgxct.png?2015031001) repeat-x -9999px -9999px;
+}
+ol, ul, li, dl, dt, dd {
+    list-style: none;
+}
+ol, ul, li, dl, dt, dd, input, h1, h2, h3, h4, h5, h6, .bxt {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.bdct .hd .lgr .fol h2 {
+    background-position: 0 -200px;
+}
+.bdct .hd .lgr li h2 {
+    font-weight: normal;
+}
+.bdct .hd .lgr li, .bdct .hd .lgr li h2, .bdct .hd .lgr li span {
+    width: 150px;
+    height: 35px;
+}
+.bdct .hd .lgr .vtd span {
+    background-position: 0 -270px;
+    color: #666;
+    font-weight: bold;
+}
+.bdct .hd .lgr li span {
+    display: block;
+    font-size: 14px;
+    height: 14px;
+    padding-top: 21px;
+    text-align: center;
+    line-height: 14px;
+    color: #ccc;
+    background-position: 0 -235px;
+}
+.bdct .hd .lgr .eol, .bdct .hd .lgr .eol h2, .bdct .hd .lgr .eol span {
+    width: 103px;
+}
+.bdct .hd .lgr .eol h2 {
+    background-position: 75px -200px;
+}
+.bdct .hd .lgr .eol span {
+    text-align: right;
+}
+
+
+.gdfw .fov {
+    background: 0;
+    padding-top: 0;
+    border-top: 1px dotted #ccc;
+}
+
+.chk .si, .chk .smi, .chk .bt {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid #945F42;
+    border-radius: 3px;
+    height: 38px;
+    line-height: 38px;
+    padding: 0 30px;
+    background-position: center 0;
+    background-color: #945F42;
+    cursor: pointer;
+}
+.arcrt .chk .si {
+    padding: 0 57px;
+}
+.gdfw dl dt, .cls, .bxlgs .lgmf, .pmtw .ttl li span, .hd .tn li, .hd .lgr li h2, .hd .lgr li span, .mtpfw .mtprmw, .arpd .bx0 .bxt h2, .mtpfw .tmtpw .nz, .arcte .bx1 .bxc .tt, .glw table .gow p span, .bxwx .qrw .scan dd, .glw .cgoods .checked .gw dt span:after {
+    background: url(C:\Users\Administrator\Desktop\毕业设计\前端代码\images\bgct.png) no-repeat -9999px -9999px;
+}
+.bdct .hd .lgr .on span {
+    background-position: 69 -305px;
+    color: #d00000;
+    font-weight: bold;
+}
+
+.bdct .hd .lgr li span {
+    display: block;
+    font-size: 14px;
+    height: 14px;
+    padding-top: 21px;
+    text-align: center;
+    line-height: 14px;
+    color: #ccc;
+    background-position: 69 -235px;
+}
+.bdct .hd .lgr .vtd span {
+    background-position: 0 -270px;
+    color: #666;
+    font-weight: bold;
+}
+
+.bdct .hd .lgr li span {
+    display: block;
+    font-size: 14px;
+    height: 14px;
+    padding-top: 21px;
+    text-align: center;
+    line-height: 14px;
+    color: #ccc;
+    background-position: 69 -235px;
+}
+.gw .cl input{margin-right:10px;}

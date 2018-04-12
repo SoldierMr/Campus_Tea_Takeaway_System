@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/MyEclipse 练习题/Project_Need_External_Package/struts2-libs/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/MyEclipse 练习题/Project_Need_External_Package/struts2-libs/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="F:/MyEclipse 练习题/Project_Need_External_Package/other-libs/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/MyEclipse 练习题/Project_Need_External_Package/other-libs/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="F:/MyEclipse 练习题/Project_Need_External_Package/other-libs/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="F:/MyEclipse 练习题/Project_Need_External_Package/other-libs/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/MyEclipse 练习题/Project_Need_External_Package/mysql-connector-java-3.1.14/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.hibernate.MYECLIPSE_HIBERNATE3_3_EM"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.hibernate.MYECLIPSE_HIBERNATE3_3_CORE"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
